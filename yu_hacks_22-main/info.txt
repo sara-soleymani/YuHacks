@@ -1,0 +1,21 @@
+Front-End: 
+    - Partners: Ammad, Karam, Amsal
+    - Sign-in page
+        -> username & password
+    - Upload reviews
+        -> edit reviews
+        -> rating system (5 star, emojis) 
+    - Upload ratings -> final rating
+    - Show course information
+        -> timtable
+        -> prof
+        -> description
+    - Search Bar
+
+Back-End: 
+    - Partners: Muskaan, Sara, 
+    - Search Bar to get class info [Done]
+    - Scrape schedule, timing and professor data from yorku schedules website (firebase youtube vid)
+    - Posting and keeping reviews (Database stuff) 
+    - Login Information for users (webDev Simplified on node.js)
+        -> passwords
